@@ -1,0 +1,3 @@
+Faker #to create some random fake data
+pandas
+psycopg2 
