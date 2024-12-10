@@ -8,6 +8,10 @@ Dynamic Visualizations implemented with Grafana (Open Source tool)Cloud and Post
 
 ![Screenshot 2024-12-09 at 9 19 14 PM](https://github.com/user-attachments/assets/3877a5bf-3cb1-4145-b400-51e9b6293882)
 
+**More Data Generated:**
+
+![Screenshot 2024-12-09 at 9 44 58 PM](https://github.com/user-attachments/assets/36dc49a1-5399-4585-b901-737efd7cf4ca)
+
 **Dynamically changing visualizations on the Grafana Cloud dashboard connected to PostgresSQL on AWS Cloud (RDS):**
 
 
